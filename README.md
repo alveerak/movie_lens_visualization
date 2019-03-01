@@ -10,3 +10,5 @@
 [Matrix Factorization (no bias)](5.1.ipynb)
 
 [Matrix Factorization (with bias)](5.2.ipynb)
+
+[Off the shelf (Surprise library)](MovieLens.ipynb)
