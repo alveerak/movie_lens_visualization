@@ -6,7 +6,7 @@
 
 [Matrix Factorization (with bias)](5.2.ipynb)
 
-[Off the shelf (Surprise library)](MovieLens.ipynb)
+[Off the shelf (Surprise library)](5.3.ipynb)
 
 - Visualizations of 100k ratings
 - Matrix factorization
