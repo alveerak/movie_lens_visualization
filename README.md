@@ -1,3 +1,4 @@
+# CS155 Miniproject 2
 # movie_lens_visualization
 
 [Basic Visualizations](Project2DataVisualization.ipynb)
